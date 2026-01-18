@@ -76,3 +76,14 @@ Drill-down enabled visuals
 Conditional formatting for delay severity 
 
 Optimized star-schema relationships
+
+
+**Business Impact**
+
+Helps airport management reduce turnaround delays
+
+Improves resource allocation & staff planning
+
+Enables data-driven operational decisions
+
+Suitable for real-world airport operations analytics
